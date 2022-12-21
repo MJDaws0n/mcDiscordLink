@@ -31,6 +31,11 @@ Well, first you need the plugin. So go get that and put it on your server.
 11. In the config file, enter the desired status for the bot in the designated field. You can also set the status in-game by running the "/status" command followed 
 by the desired status.
 
+## Supported advancemnets
+Unfortunately due to the way paper works I have to manualy edit all the details for the advancemnets meaning that in newer Minecarft version the advancemnets might
+not apear correctly. So [here](https://github.com/MJDaws0n/mcDiscordLink/blob/master/supportedAdvancements.md) is the supported advancemnets (all as of 1.19.2)
+
+
 ## Help ERRORS!
 There is a good chance you will get errors looking like:
 >Error occurred while disabling McDiscordLink v1.0 (Is it up to date?)
