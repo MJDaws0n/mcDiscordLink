@@ -49,6 +49,6 @@ java.util.concurrent.RejectedExecutionException: The Requester has been stopped!
  
 ## config.yml
 You can find the default config.yml [here](https://github.com/MJDaws0n/mcDiscordLink/blob/master/src/main/resources/config.yml).
-The botToken is the bot token 🤯. To get that follow the How do you set it up? above. The same can we said about the channelId and for the botStatus you can set
+The botToken is the bot token 🤯. To get that follow the [How do you set it up?](https://github.com/MJDaws0n/mcDiscordLink/tree/master#how-do-you-set-it-up) . The same can we said about the channelId and for the botStatus you can set
 this to what you want. You bot will say playing, then the botStatus. Note if it's blank you WILL get errors.
 
