@@ -1,0 +1,31 @@
+#McDiscordLink
+#By MJDawson https://youtube.com/mjdawson
+
+#To get your Bot Token go to https://discord.com/developers/applications and press New Application
+#Give it a name then create it. Then press on oAuth2 and press URL Generator.
+#In the SCOPES press bot then choose what you what permissions you want to give the bot. I just recommend admin otherwise
+#the bot might not be able to work correctly. Press copy, you will need it later. From there press the bot tab from the left and
+#then Add Bot. Yes. do it! Then you can choose things here but must scroll to Privileged Gateway Intents and select the three
+#settings bellow. Then, remember that link from before, paste that link and then select your server and Authorise.
+#Then your bot will be on your server. Nearly there go back to your bot tab from earlier and press Reset Token. yes, do it!
+#Press copy and then in this config file enter your Bot Token where it says botToken 🤯. Then go into discord and press settings.
+#Under APP SETTINGS click Advanced and Enable Developer Mode. Then save and close out. Right-click on the discord channel you
+#wish to have the messages broadcast to and press Copy ID 🆔. Then, you guessed it. Put it under channelId in this config file.
+#Okay, so, one setting next. What goes here? so you want to put the bots status here. So for example: minecraft. This would
+#mean, that when your bot is online it would say Playing minecraft. You can set this to whatever you want. You can also set
+#this in game by running /status then the bot's status.
+
+
+botToken: 'your bot token'
+channelId: 'your channel id'
+botStatus: 'your bots status'
+
+
+
+
+#  ███╗░░░███╗░█████╗░██████╗░██╗░██████╗░█████╗░░█████╗░██████╗░██████╗░██╗░░░░░██╗███╗░░██╗██╗░░██╗
+#  ████╗░████║██╔══██╗██╔══██╗██║██╔════╝██╔══██╗██╔══██╗██╔══██╗██╔══██╗██║░░░░░██║████╗░██║██║░██╔╝
+#  ██╔████╔██║██║░░╚═╝██║░░██║██║╚█████╗░██║░░╚═╝██║░░██║██████╔╝██║░░██║██║░░░░░██║██╔██╗██║█████═╝░
+#  ██║╚██╔╝██║██║░░██╗██║░░██║██║░╚═══██╗██║░░██╗██║░░██║██╔══██╗██║░░██║██║░░░░░██║██║╚████║██╔═██╗░
+#  ██║░╚═╝░██║╚█████╔╝██████╔╝██║██████╔╝╚█████╔╝╚█████╔╝██║░░██║██████╔╝███████╗██║██║░╚███║██║░╚██╗
+#  ╚═╝░░░░░╚═╝░╚════╝░╚═════╝░╚═╝╚═════╝░░╚════╝░░╚════╝░╚═╝░░╚═╝╚═════╝░╚══════╝╚═╝╚═╝░░╚══╝╚═╝░░╚═╝

@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Class-Path: okhttp-4.9.3.jar annotations-23.0.0.jar opus-java-natives-1.
+ 1.1.jar jackson-annotations-2.14.1.jar okio-2.8.0.jar trove4j-3.0.3.jar
+  nv-websocket-client-2.14.jar kotlin-stdlib-common-1.4.0.jar JDA-5.0.0-
+ beta.2_0f557e5-withDependencies.jar jackson-core-2.14.1.jar JDA-5.0.0-b
+ eta.2.jar opus-java-1.1.1.jar kotlin-stdlib-1.4.10.jar opus-java-api-1.
+ 1.1.jar jackson-databind-2.14.1.jar slf4j-api-1.7.36.jar commons-collec
+ tions4-4.4.jar jna-4.4.0.jar
+

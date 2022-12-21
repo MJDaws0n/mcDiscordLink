@@ -1,0 +1,16 @@
+name: McDiscordLink
+version: '${project.version}'
+main: me.mjdawson.mcdiscordlink.McDiscordLink
+api-version: 1.19
+prefix: MDL
+authors: [ MJDawson ]
+description: Allows you to send messages to your discord server through minecraft.
+author: MJDawson
+website: https://youtube.con/mjdawson
+
+commands:
+  status:
+    usage: /status [status]
+    aliases:
+      - dcstatus
+    description: Sets what the bot is playing
