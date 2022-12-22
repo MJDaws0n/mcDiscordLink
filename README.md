@@ -32,8 +32,7 @@ Well, first you need the plugin. So go get that and put it on your server.
 by the desired status.
 
 ## Supported advancemnets
-Unfortunately due to the way paper works I have to manualy edit all the details for the advancemnets meaning that in newer Minecarft version the advancemnets might
-not apear correctly. So [here](https://github.com/MJDaws0n/mcDiscordLink/blob/master/supportedAdvancements.md) is the supported advancemnets (all as of 1.19.2)
+Unfortunately due to the way the plugin is coded I have to manualy edit all the details for the advancemnets meaning that in newer Minecarft version the advancemnets might not apear correctly. So [here](https://github.com/MJDaws0n/mcDiscordLink/blob/master/supportedAdvancements.md) is the supported advancemnets (all as of 1.19.2)
 
 
 ## Help ERRORS!
